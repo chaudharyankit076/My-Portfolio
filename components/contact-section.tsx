@@ -30,10 +30,10 @@ export function ContactSection() {
             <Mail className="w-8 h-8 text-primary mx-auto mb-3" />
             <h3 className="font-semibold mb-1">Email</h3>
             <a
-              href="mailto:contact@ankitchaudhary.com"
+              href="mailto:chaudharyankit076@gmail.com"
               className="text-sm text-muted-foreground hover:text-primary transition-colors"
             >
-              contact@ankitchaudhary.com
+              chaudharyankit076@gmail.com
             </a>
           </div>
 
@@ -41,23 +41,23 @@ export function ContactSection() {
             <Phone className="w-8 h-8 text-primary mx-auto mb-3" />
             <h3 className="font-semibold mb-1">Phone</h3>
             <a
-              href="tel:+977XXXXXXXXXX"
+              href="tel:+977-9824849899"
               className="text-sm text-muted-foreground hover:text-primary transition-colors"
             >
-              +977 XXX-XXX-XXXX
+              +977-9824849899
             </a>
           </div>
 
           <div className="border border-border p-6 hover:border-primary transition-colors">
             <MapPin className="w-8 h-8 text-primary mx-auto mb-3" />
             <h3 className="font-semibold mb-1">Location</h3>
-            <p className="text-sm text-muted-foreground">Dharan, Nepal</p>
+            <p className="text-sm text-muted-foreground">Kathmandu, Nepal</p>
           </div>
         </div>
 
         <div className="flex items-center justify-center gap-6">
           <a
-            href="mailto:contact@ankitchaudhary.com"
+            href="mailto:chaudharyankit076@gmail.com"
             className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-8 py-4 font-medium hover:opacity-90 transition-opacity"
           >
             <Mail className="w-5 h-5" />
@@ -67,7 +67,7 @@ export function ContactSection() {
 
         <div className="flex items-center justify-center gap-4 mt-8">
           <a
-            href="https://github.com"
+            href="https://github.com/chaudharyankit076/"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 border border-border hover:border-primary hover:text-primary transition-colors"
@@ -76,7 +76,7 @@ export function ContactSection() {
             <Github className="w-5 h-5" />
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://linkedin.com/in/chaudharyankit076/"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 border border-border hover:border-primary hover:text-primary transition-colors"
