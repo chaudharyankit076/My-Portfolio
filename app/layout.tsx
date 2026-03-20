@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Er. Ankit Ku Chaudhary',
+  title: 'Er. Ankit Chaudhary',
   description: 'Portfolio of Ankit Ku Chaudhary - Electronics and Communication Engineer specializing in networking, Cisco, TCP/IP, Python, C/C++, and MySQL.',
   generator: 'v0.app',
   icons: {
