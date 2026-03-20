@@ -37,8 +37,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2450446215921069"
-     crossorigin="anonymous"></script>
+
       <body className="font-sans antialiased">
         <ThemeProvider
           attribute="class"
