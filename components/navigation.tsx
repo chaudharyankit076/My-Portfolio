@@ -41,7 +41,7 @@ export function Navigation() {
       }`}
     >
       <nav className="max-w-7xl mx-auto px-6 lg:px-16 py-4 flex items-center justify-between">
-        <a href="hero-section.tsx" className="flex items-center gap-2">
+        <a href="https://chaudharyankit.com.np/" className="flex items-center gap-2">
           <div className="w-10 h-10 border-2 border-primary flex items-center justify-center">
             <Image 
               src="/logo.jpeg" 
