@@ -25,7 +25,7 @@ export function AboutSection() {
             <p className="text-lg text-muted-foreground leading-relaxed">
               I am an{" "}
               <span className="text-foreground font-medium">
-                Electronics and Communication Engineer
+                Electronics, Communication & Information Engineer
               </span>{" "}
               with a strong foundation in networking technologies and software
               development. My journey in engineering has equipped me with a unique
