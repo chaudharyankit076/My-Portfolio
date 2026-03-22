@@ -56,7 +56,8 @@ export function HeroSection() {
         <div className="flex flex-col-reverse lg:flex-row items-center justify-between gap-0 lg:gap-25">
           
           {/* Left Side - Image Elements */}
-          <div className="flex-1 w-full max-w-sm lg:max-w-sm relative mt-10 lg:mt-0">
+          <div className="flex-1 w-full max-w-sm lg:max-w-sm relative mt-10 lg:mt-0 overflow-hidden">
+<div className="absolute -inset-4 bg-primary/20 blur-3xl rounded-full opacity-50 z-0"></div>
             {/* Decorative background shape */}
             <div className="absolute -inset-4 bg-primary/20 blur-3xl rounded-full opacity-50 z-0"></div>
             
