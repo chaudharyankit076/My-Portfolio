@@ -18,9 +18,10 @@ export function HeroSection() {
   return (
     <section className="relative min-h-screen flex flex-col justify-center px-6 lg:px-16 overflow-hidden">
       {/* Circuit pattern background */}
-      <div className="absolute inset-0 opacity-10 pointer-events-none">
+
+      <div className="absolute inset-0 opacity-10 pointer-events-none overflow-hidden" aria-hidden= "true">
         <svg
-          className="w-full h-full"
+          className="absolute insect-0 w-full h-full"
           viewBox="0 0 100 100"
           preserveAspectRatio="none"
         >
@@ -75,7 +76,8 @@ export function HeroSection() {
 
           {/* Right Side - Text Content */}
           <div className="flex-1 w-full">
-            <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight mb-4 text-balance">
+           {/* <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight mb-4 text-balance"> */}
+<h1 className="text-[2.5rem] md:text-6xl lg:text-7xl font-bold tracking-tight mb-4 text-balance break-words">
               Er. Ankit
               <br />
               <span className="text-primary">Chaudhary</span>
